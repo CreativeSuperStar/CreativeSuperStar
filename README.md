@@ -15,6 +15,7 @@
       <td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Backend<b></td>
       <td valign="center" width="100px"><b>DevOps<b></td>
+         <td valign="center" width="100px"><b>Blockchain<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
