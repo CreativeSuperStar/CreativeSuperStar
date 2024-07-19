@@ -1,6 +1,7 @@
-# I am a Blockchain developer.👋
+# Blockchain && Full Stack Developer👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a highly skilled Full Stack Developer with 4 years of extensive experience in blockchain and web development. My expertise lies in creating, deploying, and maintaining decentralized applications (dApps), smart contracts, and comprehensive web solutions. I have successfully delivered numerous projects for a diverse range of clients, demonstrating my ability to adapt to different requirements and provide high-quality, scalable solutions.
+
 
 ![CreateSuperStar's Stats](https://github-readme-stats.vercel.app/api?username=<CreateSuperStar>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
