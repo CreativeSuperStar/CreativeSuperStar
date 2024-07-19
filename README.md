@@ -67,31 +67,6 @@
       </td>
     </tr>
   </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Audit<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Polkadot-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Code4rena-blue" /> 
-       <img src="https://img.shields.io/badge/Sherlock-blue" /> 
-       <img src="https://img.shields.io/badge/Hats-blue" /> 
-       <img src="https://img.shields.io/badge/Cantina-blue" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
