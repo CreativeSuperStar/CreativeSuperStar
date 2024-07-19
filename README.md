@@ -55,6 +55,16 @@
         <img src="https://img.shields.io/badge/MongoDB-blue" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
       </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solidity-blue" /> 
+        <img src="https://img.shields.io/badge/Polkadot-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
+        <img src="https://img.shields.io/badge/Golang-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+        <img src="https://img.shields.io/badge/Bitcoin-blue" />
+      </td>
     </tr>
   </table>
   
