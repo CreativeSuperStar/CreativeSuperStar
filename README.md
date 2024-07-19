@@ -93,19 +93,7 @@
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
 </div>
 
- <div style="display: flex; justify-content: center;">
-  <span>
-    <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-  </span>
-
-  <span>
-    <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  </span>
-</div> 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/iwakihiroto/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
-  &nbsp;&nbsp;
   <a href="mailto:noahsflood908@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/L3RRDf51v6I9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
@@ -121,5 +109,5 @@
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
 </div>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<h2 align="center"> Thanks for visiting my GitHub. </h2>
 
