@@ -2,10 +2,10 @@
   Welcome to visit my github
 </h1>
 <h2 align="center">
-  I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
+  I am a Full Stack & Blockchain Developer.
 </h2>
 <div align="center">
-  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>https://github.com/CreativeSuperStar/CreativeSuperStar/blob/main/README.md
 </div> 
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
