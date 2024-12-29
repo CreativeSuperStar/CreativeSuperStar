@@ -16,8 +16,19 @@
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![TyeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/-Next-000?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vue.js)
 
 #### Backend
+![Node.js](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby)
+![Nest](https://img.shields.io/badge/-Nest-000?style=for-the-badge&logo=nest)
+![PHP](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php)
 
 #### DevOps
 
