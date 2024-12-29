@@ -14,6 +14,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TyeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 
 #### Backend
 
