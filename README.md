@@ -27,9 +27,28 @@
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby)
-![Nest](https://img.shields.io/badge/-Nest-000?style=for-the-badge&logo=nest)
+![Nest](https://img.shields.io/badge/-Nest-000?style=for-the-badge&logo=nest.js)
+![Golang](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=golang)
 ![PHP](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php)
 
-#### DevOps
+#### DataBase
+![MongoDB](https://img.shields.io/badge/-Mongodb-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?style=for-the-badge&logo=nosql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 #### Blockchain
+![Web3.js](https://img.shields.io/badge/-Web3-000?style=for-the-badge&logo=web3)
+![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity)
+![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
+![Polkadot](https://img.shields.io/badge/-Polkadot-000?style=for-the-badge&logo=polkadot)
+![Solana](https://img.shields.io/badge/-Solana-000?style=for-the-badge&logo=solana)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?style=for-the-badge&logo=bitcoin)
+![Smart Contract](https://img.shields.io/badge/-SmartContract-000?style=for-the-badge&logo=smartcontract)
+
+
+
+
+
+
+
