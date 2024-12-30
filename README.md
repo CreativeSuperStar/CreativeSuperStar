@@ -66,9 +66,11 @@
 
 ---
 
-<h1 align='center'>
+<h3 align="center" style="font-size:36px; font-weight:500;">
   👋 Thank you for visiting my Github! 👋
-</h1>
+</h3>
+
+
 
 
 
