@@ -8,49 +8,6 @@
   </a> 
 </P>
 
-
-## Tech Stack 💻
-#### Frontend
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![TyeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/-Next-000?style=for-the-badge&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
-![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vue.js)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby)
-![Nest](https://img.shields.io/badge/-Nest-000?style=for-the-badge&logo=nest.js)
-![Golang](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=golang)
-![PHP](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php)
-
-#### DataBase
-![MongoDB](https://img.shields.io/badge/-Mongodb-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000?style=for-the-badge&logo=nosql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-
-#### Blockchain
-![Web3.js](https://img.shields.io/badge/-Web3-000?style=for-the-badge&logo=web3)
-![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity)
-![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
-![Polkadot](https://img.shields.io/badge/-Polkadot-000?style=for-the-badge&logo=polkadot)
-![Solana](https://img.shields.io/badge/-Solana-000?style=for-the-badge&logo=solana)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?style=for-the-badge&logo=bitcoin)
-![Smart Contract](https://img.shields.io/badge/-SmartContract-000?style=for-the-badge&logo=smartcontract)
-
-
----
  
 <p align="center">
     <img title="My Github Streak Check" alt="Abhijit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeSuperStar&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
@@ -64,7 +21,141 @@
     <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="Codemedic213515 graph"  />
 </p>
 
----
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+<table align="center" style="background-color:#0A0A0A;">
+  <tr>
+ <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+       <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <br>RestAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+<br/>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
+      <br>MongoDB
+    </td>
+   
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="svelte" />
+      <br>GitHub-Action
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Laravel" />
+      <br>Azure
+    </td>
+    <td align="center" width="90">
+     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" />
+      <br>Nginx
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+     <img src="https://github.com/codemedic213515/codemedic213515/blob/dev/ant-design-2.svg" width="45 height="45" alt="antD"/>
+     <br>Ant Design
+    </td>
+    <td align="center" width="90">
+     <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
+      <br>Apache2
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="icon" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+   
+  </tr>
+ 
+</table>
+</p>
 
 <h3 align="center" style="font-size:36px; font-weight:500;">
   👋 Thank you for visiting my Github! 👋
