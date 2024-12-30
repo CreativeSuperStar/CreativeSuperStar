@@ -1,11 +1,10 @@
 <h1 align='center'>
-  👍Greating👍 <br> </br> 
-  👋I'm Nomura Kyosuke 👨‍💻
+  👍Greating 👋I'm Nomura Kyosuke 👨‍💻
 </h1>
 
 <P align='center'>
  <a href="https://github.com/CreativeSuperStar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&duration=2000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;Ai+Chatbot+Automation;Web+/+Logo+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;Ai+Chatbot+Automation;Web+/+Logo+Designer">
   </a> 
 </P>
 
