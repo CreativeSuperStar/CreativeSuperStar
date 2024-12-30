@@ -1,13 +1,12 @@
 <h1 align='center'>
   👍Greating👍 <br> </br> 
   👋I'm Nomura Kyosuke 👨‍💻
-  <a href="https://github.com/CreativeSuperStar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;Ai+Chatbot+Automation;Web+/+Logo+Designer">
-  </a>
 </h1>
 
 <P align='center'>
-  A Blockchain Full Stack developer from Japan   
+ <a href="https://github.com/CreativeSuperStar">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&duration=2000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;Ai+Chatbot+Automation;Web+/+Logo+Designer">
+  </a> 
 </P>
 
 ## Tech Stack 💻
