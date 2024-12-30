@@ -52,6 +52,8 @@
 
 ---
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CreativeSuperStar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
  <p align="center">
     <img title="My Github Streak Check" alt="Abhijit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeSuperStar&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
