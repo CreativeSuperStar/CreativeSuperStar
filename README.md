@@ -157,9 +157,9 @@
 </table>
 </p>
 
-<h3 align="center" style="font-size:36px; font-weight:500;">
+<h1 align="center" style="font-size:36px; font-weight:500;">
   👋 Thank you for visiting my Github! 👋
-</h3>
+</h1>
 
 
 
