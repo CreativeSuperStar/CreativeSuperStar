@@ -8,9 +8,17 @@
   </a> 
 </P>
 
-<p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=CreativeSuperStar&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+---
+
+ <p align="center">
+    <img title="My Github Streak Check" alt="Abhijit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeSuperStar&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
 </p>
+ <p align="center">
+    <img width="450px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CreativeSuperStar&show_icon=true&hide_border=true&theme=react&bg_color=0D1117&include_all_commits&count_private=true" />
+    <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeSuperStar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
+</p>
+
+---
 
 ## Tech Stack 💻
 #### Frontend
