@@ -12,7 +12,9 @@
 - Proficient in blockchain platforms, including Ethereum and Solana, with expertise in smart contract development, auditing, and optimization using Solidity, Rust, and other technologies.
 - Experienced in full-stack development, integrating secure and scalable backend systems with modern frontend frameworks like React, Vue.js, and Next.js.
 - Skilled in reducing gas fees, improving DApp performance, and implementing robust solutions to enhance security and efficiency.
-- Passionate about driving innovation and leveraging emerging technologies to deliver impactful solutions in the blockchain space. 
+- Passionate about driving innovation and leveraging emerging technologies to deliver impactful solutions in the blockchain space.
+
+  <br></br>
  
 <p align="center">
     <img title="My Github Streak Check" alt="Abhijit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CreativeSuperStar&theme=black-ice&hide_border=true&stroke=0000&background=060A0C0"/>
@@ -23,7 +25,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="Codemedic213515 graph"  />
+    <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="CreativeSuperStar graph"  />
 </p>
 
 
