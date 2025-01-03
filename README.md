@@ -70,8 +70,8 @@
 <br/>Next
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
-      <br>MongoDB
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Light.svg" width="45" height="45" alt="Vue" />
+      <br>Vue
     </td>
    
   </tr>
