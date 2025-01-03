@@ -42,8 +42,8 @@
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
+      <img src="https://avatars.githubusercontent.com/u/23182699?s=48&v=4" width="45" height="45" alt="PyTeal" />
+      <br>PyTeal
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
