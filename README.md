@@ -51,23 +51,23 @@
     </td>
     <td align="center" width="90">
       <img src="https://docs.web3js.org/img/web3js.svg" alt="Web3.js" width="55" height="55" />
-      <br>Web#.js
+      <br>Web3.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RestAPI
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="55" height="55" />
+      <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br>Linux
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="45" height="45" alt="React" />
+      <br>React
     </td>
     <td align="center" width="90">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-<br/>GitHub
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="Next" width="55" height="55" />
+<br/>Next
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
