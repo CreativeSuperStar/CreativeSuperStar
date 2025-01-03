@@ -50,8 +50,8 @@
       <br>Go
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
-      <br>Redux
+      <img src="https://docs.web3js.org/img/web3js.svg" alt="Web3.js" width="55" height="55" />
+      <br>Web#.js
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
