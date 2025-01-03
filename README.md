@@ -38,8 +38,8 @@
       <br>Solidity
     </td>
        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="45" height="45" alt="Rust" />
+      <br>Rust
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
