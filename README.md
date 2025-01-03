@@ -33,9 +33,9 @@
 <p align="center">
 <table align="center" style="background-color:#0A0A0A;">
   <tr>
- <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Solidity.svg" width="45" height="45" alt="Solidity" />
+      <br>Solidity
     </td>
        <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
