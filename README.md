@@ -77,62 +77,53 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="svelte" />
-      <br>GitHub-Action
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Light.svg" width="45" height="45" alt="Flask" />
+      <br>Flask
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="python" />
-      <br>Python
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rails.svg" width="45" height="45" alt="Ruby on Rails" />
+      <br>Ruby on Rails
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55" />
+      <br>Node.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="bash" />
-      <br>Bash
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" width="45" height="45" alt="Express" />
+      <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Laravel" />
-      <br>Azure
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg" width="45" height="45" alt="Adobe XD" />
+      <br>Adobe XD
     </td>
     <td align="center" width="90">
-     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" />
-      <br>Nginx
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" alt="Figma" width="55" height="55" />
+      <br>Figma
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
-      <br>Docker
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Light.svg" alt="Blender" width="55" height="55" />
+      <br>Blender
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
-      <br>Postman
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/D3-Light.svg" width="45" height="45" alt="D3.js" />
+      <br>D3.js
     </td>
     <td align="center" width="90">
-     <img src="https://github.com/codemedic213515/codemedic213515/blob/dev/ant-design-2.svg" width="45 height="45" alt="antD"/>
-     <br>Ant Design
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="45 height="45" alt="Python"/>
+     <br>Python
     </td>
     <td align="center" width="90">
-     <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
-      <br>Apache2
+     <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="45" height="45" alt="Pandas" />
+      <br>Pandas
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" width="45" height="45" alt="Rest API" />
+      <br>PyTorch
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="icon" width="55" height="55" />
-      <br>AWS
+      <img src="https://img.icons8.com/?size=48&id=TUk7vxvtu6hX&format=png" width="45" height="45" alt="Open AI" />
+      <br>Open AI
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
@@ -143,20 +134,71 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="vite" />
-      <br>Vite
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="55" height="55" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C#
+       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="45" height="45" alt="php" />
+      <br>Php
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="icon" width="55" height="55" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="55" height="55" />
+      <br>Rest API
+    </td>
+   
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" width="45" height="45" alt="Rest API" />
+      <br>PyTorch
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/?size=48&id=TUk7vxvtu6hX&format=png" width="45" height="45" alt="Open AI" />
+      <br>Open AI
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="55" height="55" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="45" height="45" alt="php" />
+      <br>Php
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="icon" width="55" height="55" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="55" height="55" />
+      <br>Rest API
     </td>
    
   </tr>
