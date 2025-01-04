@@ -162,11 +162,11 @@
 
   <tr>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" width="45" height="45" alt="Rest API" />
-      <br>PyTorch
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="45" height="45" alt="Docker" />
+      <br>Docker
     <td align="center" width="90">
-      <img src="https://img.icons8.com/?size=48&id=TUk7vxvtu6hX&format=png" width="45" height="45" alt="Open AI" />
-      <br>Open AI
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="45" height="45" alt="Github" />
+      <br>Github
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
