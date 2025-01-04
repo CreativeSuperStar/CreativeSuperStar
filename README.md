@@ -169,36 +169,36 @@
       <br>Github
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg" alt="VSCode" width="55" height="55" />
+      <br>VSCode
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
+      <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="45" height="45" alt="MySQL" />
-      <br>MySQL
+     <img src="https://github.com/codemedic213515/codemedic213515/blob/dev/ant-design-2.svg" width="45 height="45" alt="antD"/>
+     <br>Ant Design
+    </td>
+     <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="icon" width="55" height="55" />
+      <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="55" height="55" />
-      <br>MongoDB
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+   <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C#
     </td>
     <td align="center" width="90">
-       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="45" height="45" alt="php" />
-      <br>Php
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="icon" width="55" height="55" />
-      <br>Wordpress
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="55" height="55" />
-      <br>Rest API
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
     </td>
    
   </tr>
